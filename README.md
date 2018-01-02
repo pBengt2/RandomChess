@@ -20,8 +20,11 @@ As it cannot read the state of the board, minimum information is entered.
 (the rules are printed upon running the program)
 
 If you can move the piece, enter 'y'. <= "(Y)es, I will move it"
+
 If the piece can't be moved, enter 'n'. <= "(N)o, I cannot move it, tell me another piece"
+
 If there are no remaining of the piece, enter 'e'. <= "that piece has been (e)liminated, no longer recommend it to me"
+
 If a pawn becomes a queen, enter 'u'. <= "(U)pgrade my pawn, (ie if queen was eliminated, add it back)"
 
 ## How to run
